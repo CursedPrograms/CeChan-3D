@@ -14,7 +14,9 @@
     <img class="workflow-badge workflow-success" src="https://github.com/CursedPrograms/project-template/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
 </a>
 
-# Project-Template
+# CeChan-3D
+
+https://www.makehumancommunity.org/
 
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
