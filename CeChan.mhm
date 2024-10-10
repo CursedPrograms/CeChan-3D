@@ -1,0 +1,32 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+camera 0.0 0.0 0.057436307638269464 1.0 0.09070772226336052 1.412500000000005
+modifier breast/BreastSize 0.754000
+modifier breast/BreastFirmness 0.500000
+modifier breast/breast-trans-down|up 0.222000
+modifier breast/breast-dist-decr|incr 0.238000
+modifier breast/breast-point-decr|incr 0.016000
+modifier breast/breast-volume-vert-down|up 0.366000
+modifier breast/nipple-size-decr|incr 0.460000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.452000
+modifier macrodetails/African 0.333333
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails-universal/Weight 0.325000
+modifier macrodetails-height/Height 0.500000
+modifier macrodetails-proportions/BodyProportions 0.500000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Shape05 c6096ff1-46b6-4fdf-b992-49c1bc67f18b
+proxy female_muscle_13442 20a78cb1-52c2-4bf5-87c7-96e2638b0135
+eyelashes eyelashes02 04a0718e-aaa4-4480-a013-ad51703bef6b
+skeleton game_engine.mhskel
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothesHideFaces True
+skinMaterial skins/young_asian_female/young_asian_female.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+material eyelashes02 04a0718e-aaa4-4480-a013-ad51703bef6b eyelashes02.mhmat
+material Teeth_Shape05 c6096ff1-46b6-4fdf-b992-49c1bc67f18b teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False
